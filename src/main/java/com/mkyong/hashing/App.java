@@ -10,6 +10,7 @@ public class App
     {
         EvenOdd ob=new EvenOdd();
 	System.out.println(ob.checkEven(Integer.parseInt(args[0])));
+System.out.println("OK");
 
     }
 }
