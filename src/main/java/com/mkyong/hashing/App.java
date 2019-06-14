@@ -12,6 +12,7 @@ public class App
 	System.out.println(ob.checkEven(Integer.parseInt(args[0])));
 System.out.println("OK");
 System.out.println("OK2");
+System.out.println("OK3");
 
     }
 }
